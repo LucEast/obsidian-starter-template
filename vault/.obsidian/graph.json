@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#category/daily",
+      "color": {
+        "a": 1,
+        "rgb": 8042496
+      }
+    },
+    {
+      "query": "tag:#movies",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:_data_/templates",
+      "color": {
+        "a": 1,
+        "rgb": 13524182
+      }
+    },
+    {
+      "query": "tag:#trip",
+      "color": {
+        "a": 1,
+        "rgb": 43120
+      }
+    },
+    {
+      "query": "tag:#work",
+      "color": {
+        "a": 1,
+        "rgb": 14078556
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 16774804
+      }
+    },
+    {
+      "query": "tag:#IT  ",
+      "color": {
+        "a": 1,
+        "rgb": 2330577
+      }
+    },
+    {
+      "query": "path:Learning  ",
+      "color": {
+        "a": 1,
+        "rgb": 10107595
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.00140380859375,
+  "lineSizeMultiplier": 1.00459391276042,
+  "collapse-forces": true,
+  "centerStrength": 0.502197265625,
+  "repelStrength": 10.03662109375,
+  "linkStrength": 1,
+  "linkDistance": 120,
+  "scale": 0.20022583007812825,
+  "close": true
+}

@@ -1,0 +1,43 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Work/OWL-IT/Journal/Entries/2024-05-07.md": [
+      {
+        "title": "10 Juli AppSpace Architektur Workshop",
+        "time": "2024-07-10",
+        "rowNumber": 96
+      }
+    ],
+    "Work/OWL-IT/Journal/Entries/2024-24.md": [
+      {
+        "title": "Hausaufgabe: grünes licht geben für RFC-001 & RFC-002. 📅 2024-06-17 ➕ 2024-06-10",
+        "time": "2024-06-17 14:00",
+        "rowNumber": 86
+      },
+      {
+        "title": "Hausaufgabe: grünes licht geben für RFC-001 & RFC-002.",
+        "time": "2024-06-17",
+        "rowNumber": 86
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

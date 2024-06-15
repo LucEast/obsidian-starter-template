@@ -1,0 +1,643 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects - Demo Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "047896aa-30f0-4e1a-b65e-17b2bc5c6e1b",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b6d59266-6c5d-4e64-8a6c-3418cd49f1fa",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "1b93a096-e3b0-43a3-b274-181c9b9654e8",
+      "name": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Home/Serien",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "includeFields": [
+              "name"
+            ],
+            "groupByField": "status"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "fd20c329-bd65-463f-b836-5656e34e9398",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "fitStyle": "contain",
+            "includeFields": [
+              "name",
+              "status"
+            ],
+            "coverField": "poster"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b4fe2628-9a09-419e-b87d-a1e76bdd3df1",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9529791c-d38f-4927-9502-cd9653d0ef22",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "4a74b4dd-ca12-4a25-a150-402f8a5906f9",
+      "name": "Serien"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Journal",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6c4f3ad1-64b8-4259-a164-a1514e27e8f9",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "banner",
+            "includeFields": [
+              "name"
+            ],
+            "fitStyle": "contain"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8af846b4-18d9-481c-ab65-8c44d2c2c9a9",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5415838d-21e6-427a-9ae7-ae841166a288",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "groupByField": "status"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "40d43f4d-868f-4c62-a4bb-6aa5153e8167",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "95915576-0d8f-4fd0-a814-d3d6b2063884",
+      "name": "Daily Notes"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Top Secret Project",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8865aaf9-4ed9-496b-8daf-3b5991bb4c46",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "banner"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "022d2f4d-715d-4898-b376-8b16a0070631",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "2a2ce290-8aa9-4ad0-9fa4-dbacb9ab9b40",
+      "name": "Top Secret Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Bitwarden",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "Projects/Bitwarden/Notes",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0bca0157-f90c-4a0f-a7ef-4f4d47104f12",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "banner",
+            "fitStyle": "cover"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "55b2162b-6b30-42d6-b98b-e7a6cc8bdaa9",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3d401821-938e-41ed-bc2e-a4d08cd71508",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "b1fa1387-1943-44e5-a931-5f8a0165526a",
+      "name": "Bitwarden"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1797d0df-45e7-4c92-95b8-12f6b0aebcd9",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "banner",
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9ee4dfd1-3a65-4eb6-b061-a2f7d11b1f6d",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4dd24cd5-8675-48ae-8ac8-7bba8f4a39de",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "146bc3b5-274a-4916-85b4-da8d16820663",
+      "name": "Projects"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Journal",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "banner",
+            "fitStyle": "cover"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7133bf5e-93a2-4d6c-822c-c485891bbb62",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "bb191664-a1d0-41ff-bcf4-a3e7ca27cd35",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "94062dd7-895b-4a79-ac87-b37bd8b0da99",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "9551a1a8-cefe-444e-941f-826e97dc6bc2",
+      "name": "Journal"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Learning/Datenschutz & IT-Sicherheit",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a6714876-51a7-41d4-b3dd-780ce53853c7",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "fa5f67b3-cb4f-462a-a7c7-d099e9e39032",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "columns": {
+              "No status": {
+                "weight": 0
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b164fcaf-1900-418f-b0b2-94ca81d86cde",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "b9696ce6-0097-488a-b2f8-e60189866552",
+      "name": "Datenschutz & IT-Sicherheit"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Work/OWL-IT/Journal/Entries",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2d4c946a-f6e8-4b0c-bf92-d41d2b8eaf24",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "completed"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7d2446c7-b8d9-4ec9-be49-0e29e8d2a35d",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "checkField": ""
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a613fef7-522e-4422-b316-dece188ca993",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "",
+            "includeFields": [
+              "date_created"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "457f0bf3-596a-4813-919a-56129c7312f4",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "ec8c1e9e-e4eb-4c0a-8d58-3d1454ec6296",
+      "name": "Work Journal"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
+  "minimal-style@@row-lines": true,
+  "minimal-style@@row-hover": true,
+  "modular-css-layout-wv@@wide-table-global": false,
+  "modular-css-layout-wv@@wide-dataview-global": false,
+  "minimal-style@@maximize-tables-off": "maximize-tables-off",
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-style@@tab-stacked-pane-width": 1400,
+  "modular-css-layout-wv@@is-adj-rll": false,
+  "modular-css-layout-wv@@narrow-max-width": "700px",
+  "minimal-style@@row-alt": true,
+  "minimal-style@@tag-radius": "14px",
+  "minimal-style@@tag-border-width": "1px",
+  "minimal-style@@table-lines": true,
+  "minimal-style@@table-tabular": true,
+  "minimal-style@@table-numbers": false,
+  "minimal-style@@image-radius": 8
+}

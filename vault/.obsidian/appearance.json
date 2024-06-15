@@ -1,0 +1,16 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "translucency": false,
+  "textFontFamily": "",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "Custom style",
+    "Pinned Pages",
+    "tailwind",
+    "MCL Multi Column",
+    "MCL Wide Views"
+  ],
+  "nativeMenus": false
+}

@@ -1,0 +1,60 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "quickadd:choice:0e01a20b-5cab-4964-b8c0-0de1752922af",
+      "icon": "briefcase",
+      "name": "QuickAdd: Work",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-popout",
+      "icon": "pen-tool",
+      "name": "Excalidraw: Create new drawing - IN A POPOUT WINDOW",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:58ffce94-c41b-4cf4-9233-291e678d748d",
+      "icon": "briefcase",
+      "name": "QuickAdd: Work weekly",
+      "mode": "any",
+      "color": "#354550"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Templater",
+      "Export Vault to HTML",
+      "Add new Media DB entry",
+      "Advanced Tables Toolbar",
+      "Excalidraw: Create new drawing - IN A POPOUT WINDOW",
+      "Open command palette",
+      "Insert template",
+      "Open today",
+      "Open quick switcher"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./_data_/media",
+  "spellcheck": true,
+  "useTab": true,
+  "trashOption": "local",
+  "showLineNumber": false,
+  "showFrontmatter": true,
+  "showIndentGuide": false,
+  "rightToLeft": false,
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "propertiesInDocument": "visible",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "_data_/"
+  ],
+  "vimMode": false,
+  "tabSize": 4
+}

@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "hsl( 201, 17%, calc(50% + 6%) )",
+      "directory": "/"
+    },
+    {
+      "type": "local",
+      "color": "#0f5ea9",
+      "directory": "Work/OWL-IT/Journal/Entries"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}
