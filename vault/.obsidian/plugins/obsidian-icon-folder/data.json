@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiCar",
+      "TiMath",
+      "TiEqual",
       "TiSpaces",
       "FasToolbox",
       "TiBrandDocker",
@@ -91,5 +94,8 @@
   "Spaces/Technologies/Coding/Python.md": "TiBrandPython",
   "Spaces/Technologies/Containers/Kubernetes/Helm": "CuHelm",
   "Spaces/Technologies/Tools": "FasToolbox",
-  "Omnivore": "RiBookmarkFill"
+  "Omnivore": "RiBookmarkFill",
+  "Spaces/Definitions": "TiEqual",
+  "Spaces/Formulas": "TiMath",
+  "Spaces/Trips": "TiCar"
 }

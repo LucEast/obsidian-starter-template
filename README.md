@@ -21,28 +21,31 @@
 
 
 ## Table of Contents
-1. [Setup](#setup)
-2. [Structure](#structure)
-    1. [\_data_](#\_data_)
-    2. [Concept Board](#concept-board)
-    3. [Journal](#journal)
-    4. [Learning](#learning)
-    5. [Notes](#notes)
-    6. [Personal](#personal)
-    7. [Projects](#projects)
-    8. [Resources](#resources)
-    9. [Spaces](#spaces)
-    10. [Dashboard.md](#dashboardmd)
-    11. [Inbox.md](#inboxmd)
-3. [Templates](#templates)
-    1. [Navigation Bar](#navigation-bar)
-    2. [Full Page Templates](#full-page-templates)
-    3. [Component Templates](#component-templates)
-    4. [JavaScript Components](#javascript-components)
-4. [Plugins](#plugins)
-    1. [Installed Plugins](#installed-plugins)
-    2. [Notable Plugins](#notable-plugins)
-5. [Themes](#themes)
+- [Obsidian Starter Vault by SoRobby](#obsidian-starter-vault-by-sorobby)
+	- [Table of Contents](#table-of-contents)
+	- [Setup](#setup)
+	- [Structure](#structure)
+		- [Overview](#overview)
+		- [\_data\_](#_data_)
+		- [Concept Board](#concept-board)
+		- [Journal](#journal)
+		- [Learning](#learning)
+		- [Notes](#notes)
+		- [Personal](#personal)
+		- [Projects](#projects)
+		- [Resources](#resources)
+		- [Spaces](#spaces)
+		- [Dashboard.md](#dashboardmd)
+		- [Inbox.md](#inboxmd)
+	- [Templates](#templates)
+		- [Navigation Bar](#navigation-bar)
+		- [Full Page Templates](#full-page-templates)
+		- [Component Templates](#component-templates)
+		- [JavaScript Components](#javascript-components)
+	- [Plugins](#plugins)
+		- [Installed Plugins](#installed-plugins)
+		- [Notable Plugins](#notable-plugins)
+	- [Themes](#themes)
 
 
 ## Setup
@@ -58,9 +61,10 @@
 ```
 Vault/
 ├── _data_/
+├── _drawings
 ├── Concept Board/
-│	├── Cocnepts/
-│	├── Lectures/
+│	├── Concepts/
+│	├── Drawings/
 │	└── Concept Board.md
 ├── Journal/
 │	├── Entries/
@@ -91,8 +95,18 @@ Vault/
 │	├── Contacts/
 │	├── Definitions/
 │	├── Formulas/
+│	├── Games/
+│	├── Movies/
+│	├── Technologies/
 │	├── Trips/
 │	└── Spaces Dashboard.md
+├── Work/
+│	├── _data_/
+│	├── Journal/
+│	│	│── Entries/
+│	│	└── Work Journal Dashboard.md
+│	├── TODOs.md
+│	├── Work Home.md
 ├── Dashboard.md
 ├── Inbox.md
 └── README.md
